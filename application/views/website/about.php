@@ -1,0 +1,2 @@
+<h1 style="text-align: center;">This is the about page</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti debitis minima quod cum, praesentium in velit? Cumque non officia consequuntur debitis modi suscipit omnis repudiandae. Dolor sapiente eos minus magni?</p>
